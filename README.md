@@ -1,4 +1,6 @@
 murmur
 ======
-This is the second edit.
-This is the third edit
+branch edits
+=======
+
+adding shit in the resolving conflicts window xd?
